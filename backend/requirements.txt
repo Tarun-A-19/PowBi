@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+gunicorn
+python-multipart
+pandas
+google-genai
+pydantic
+python-dotenv
+pyjwt
+passlib[bcrypt]
